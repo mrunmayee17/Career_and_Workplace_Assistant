@@ -1,0 +1,7 @@
+streamlit
+langchain
+PyPDF2
+pymilvus
+twelvelabs
+google-generativeai
+sentence-transformers
