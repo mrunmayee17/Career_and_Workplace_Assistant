@@ -39,6 +39,19 @@ This repository contains a **Career and Workplace Assistant**, an AI-powered app
 - **PyPDF2**: For extracting text from PDFs.
 
 ---
+## References
+- [Workplace Advising]https://www.instagram.com/shadezahrai/reel/DExCPpvzt9A/?hl=en
+- [Workplace Advising]https://www.instagram.com/shadezahrai/reel/DEEujntT41H/?hl=en
+- [Workplace Advising]https://www.instagram.com/shadezahrai/reel/DEUxGU1zDa6/?hl=en
+- [Workplace Advising]https://www.instagram.com/shadezahrai/reel/ComLej7ABOo/?hl=en
+- [Workplace Advising]https://www.instagram.com/thebigapplered/reel/C5_pbdkOuyV/?hl=en
+- [Workplace Advising]https://www.instagram.com/thebigapplered/reel/C5diQQEuivi/?hl=en
+- [Workplace Advising]https://www.instagram.com/thebigapplered/reel/DFA9IY4OMce/?hl=en
+- [Workplace Advising]https://www.instagram.com/thebigapplered/reel/DExjI00soux/?hl=en
+- [Workplace Advising]https://www.instagram.com/thebigapplered/reel/DEure2kyUQR/?hl=en
+- [LLM Concepts]https://www.youtube.com/watch?v=LPZh9BOjkQs&t=11s
+- [LLM Concepts]https://www.youtube.com/watch?v=wjZofJX0v4M&t=37s
+
 
 ## Installation
 
