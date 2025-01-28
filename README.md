@@ -51,6 +51,10 @@ This repository contains a **Career and Workplace Assistant**, an AI-powered app
 - [Workplace Advising]https://www.instagram.com/thebigapplered/reel/DEure2kyUQR/?hl=en
 - [LLM Concepts]https://www.youtube.com/watch?v=LPZh9BOjkQs&t=11s
 - [LLM Concepts]https://www.youtube.com/watch?v=wjZofJX0v4M&t=37s
+- [PDF Blogs]https://developer.nvidia.com/blog/insights-techniques-and-evaluation-for-llm-driven-knowledge-graphs/
+- [PDF Blogs]https://developer.nvidia.com/blog/optimize-ai-inference-performance-with-nvidia-full-stack-solutions/
+- [PDF Blogs]https://www.twelvelabs.io/blog/fashion-chat-assistant
+- [PDF Blogs]https://www.twelvelabs.io/blog/security-analysis
 
 
 ## Installation
